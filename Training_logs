@@ -1,0 +1,176 @@
+********** Iteration 0 ************
+Optimizing...g | Thruster: [49.96116757 50.04631877]]
+      pol_surr |     pol_entpen |        vf_loss |             kl |            ent
+       0.01887 |        0.00000 |        0.11077 |        0.02649 |      -10.60376
+      -0.01095 |        0.00000 |        0.04138 |        0.03730 |      -10.60376
+Evaluating losses...
+      -0.03286 |        0.00000 |        0.03153 |        0.02953 |      -10.60376
+------------------------------------------
+| evaluations/EpLenMean       | 19.3     |
+| evaluations/ev_tdlam_before | -20.4    |
+| evaluations/meanclipfracs   | 0.385    |
+| loss/ent                    | -10.6    |
+| loss/kl                     | 0.0295   |
+| loss/pol_entpen             | 0        |
+| loss/pol_surr               | -0.0329  |
+| loss/vf_loss                | 0.0315   |
+| misc/EpisodesSoFar          | 199      |
+| misc/EpThisIter             | 199      |
+| misc/TimeElapsedMin         | 0.953    |
+| misc/TimestepsSoFar         | 4.09e+03 |
+| rewards/EpRewAccel          | 0.604    |
+| rewards/EpRewDeltaAcs       | 0.602    |
+| rewards/EpRewFootforce      | 0.985    |
+| rewards/EpRewFootPos        | 0.354    |
+| rewards/EpRewMean           | 9.8      |
+| rewards/EpRewMotorPos       | 0.292    |
+| rewards/EpRewMotorVel       | 0        |
+| rewards/EpRewPelRotPos      | 1.08     |
+| rewards/EpRewPelRotVel      | 0.178    |
+| rewards/EpRewPelTransPosXY  | 1.1      |
+| rewards/EpRewPelTransPosZ   | 0.536    |
+| rewards/EpRewPelTransVelX   | 0.523    |
+| rewards/EpRewPelTransVelY   | 0.798    |
+| rewards/EpRewTorque         | 0.599    |
+------------------------------------------
+********** Iteration 1 ************
+Optimizing...ne | Thruster: [50.02868176 49.98893142]
+      pol_surr |     pol_entpen |        vf_loss |             kl |            ent
+       0.00682 |        0.00000 |        0.02608 |        0.01058 |      -10.60376
+      -0.01654 |        0.00000 |        0.01632 |        0.02237 |      -10.60376
+Evaluating losses...
+      -0.03459 |        0.00000 |        0.01351 |        0.02463 |      -10.60376
+------------------------------------------
+| evaluations/EpLenMean       | 20.6     |
+| evaluations/ev_tdlam_before | -6.59    |
+| evaluations/meanclipfracs   | 0.346    |
+| loss/ent                    | -10.6    |
+| loss/kl                     | 0.0246   |
+| loss/pol_entpen             | 0        |
+| loss/pol_surr               | -0.0346  |
+| loss/vf_loss                | 0.0135   |
+| misc/EpisodesSoFar          | 401      |
+| misc/EpThisIter             | 202      |
+| misc/TimeElapsedMin         | 1.84     |
+| misc/TimestepsSoFar         | 8.18e+03 |
+| rewards/EpRewAccel          | 0.646    |
+| rewards/EpRewDeltaAcs       | 0.592    |
+| rewards/EpRewFootforce      | 1.08     |
+| rewards/EpRewFootPos        | 0.378    |
+| rewards/EpRewMean           | 10.4     |
+| rewards/EpRewMotorPos       | 0.288    |
+| rewards/EpRewMotorVel       | 0        |
+| rewards/EpRewPelRotPos      | 1.13     |
+| rewards/EpRewPelRotVel      | 0.196    |
+| rewards/EpRewPelTransPosXY  | 1.17     |
+| rewards/EpRewPelTransPosZ   | 0.56     |
+| rewards/EpRewPelTransVelX   | 0.565    |
+| rewards/EpRewPelTransVelY   | 0.807    |
+| rewards/EpRewTorque         | 0.642    |
+------------------------------------------
+********** Iteration 2 ************
+Optimizing...g | Thruster: [50.14340878 50.00084043]]
+      pol_surr |     pol_entpen |        vf_loss |             kl |            ent
+       0.00511 |        0.00000 |        0.01312 |        0.00837 |      -10.60376
+      -0.01825 |        0.00000 |        0.01086 |        0.02237 |      -10.60376
+Evaluating losses...
+      -0.03598 |        0.00000 |        0.01010 |        0.02368 |      -10.60376
+------------------------------------------
+| evaluations/EpLenMean       | 20.7     |
+| evaluations/ev_tdlam_before | -2.97    |
+| evaluations/meanclipfracs   | 0.339    |
+| loss/ent                    | -10.6    |
+| loss/kl                     | 0.0237   |
+| loss/pol_entpen             | 0        |
+| loss/pol_surr               | -0.036   |
+| loss/vf_loss                | 0.0101   |
+| misc/EpisodesSoFar          | 600      |
+| misc/EpThisIter             | 199      |
+| misc/TimeElapsedMin         | 2.76     |
+| misc/TimestepsSoFar         | 1.23e+04 |
+| rewards/EpRewAccel          | 0.649    |
+| rewards/EpRewDeltaAcs       | 0.604    |
+| rewards/EpRewFootforce      | 1.07     |
+| rewards/EpRewFootPos        | 0.378    |
+| rewards/EpRewMean           | 10.4     |
+| rewards/EpRewMotorPos       | 0.289    |
+| rewards/EpRewMotorVel       | 0        |
+| rewards/EpRewPelRotPos      | 1.07     |
+| rewards/EpRewPelRotVel      | 0.21     |
+| rewards/EpRewPelTransPosXY  | 1.19     |
+| rewards/EpRewPelTransPosZ   | 0.577    |
+| rewards/EpRewPelTransVelX   | 0.594    |
+| rewards/EpRewPelTransVelY   | 0.821    |
+| rewards/EpRewTorque         | 0.645    |
+------------------------------------------
+********** Iteration 3 ************
+Optimizing...g | Thruster: [49.9774605 50.0225246]2]]
+      pol_surr |     pol_entpen |        vf_loss |             kl |            ent
+       0.00094 |        0.00000 |        0.01075 |        0.00944 |      -10.60376
+      -0.02357 |        0.00000 |        0.00930 |        0.02920 |      -10.60376
+Evaluating losses...
+      -0.03824 |        0.00000 |        0.00859 |        0.03169 |      -10.60376
+------------------------------------------
+| evaluations/EpLenMean       | 22.6     |
+| evaluations/ev_tdlam_before | -2.23    |
+| evaluations/meanclipfracs   | 0.406    |
+| loss/ent                    | -10.6    |
+| loss/kl                     | 0.0317   |
+| loss/pol_entpen             | 0        |
+| loss/pol_surr               | -0.0382  |
+| loss/vf_loss                | 0.00859  |
+| misc/EpisodesSoFar          | 789      |
+| misc/EpThisIter             | 189      |
+| misc/TimeElapsedMin         | 3.68     |
+| misc/TimestepsSoFar         | 1.64e+04 |
+| rewards/EpRewAccel          | 0.708    |
+| rewards/EpRewDeltaAcs       | 0.637    |
+| rewards/EpRewFootforce      | 1.26     |
+| rewards/EpRewFootPos        | 0.414    |
+| rewards/EpRewMean           | 11.4     |
+| rewards/EpRewMotorPos       | 0.299    |
+| rewards/EpRewMotorVel       | 0        |
+| rewards/EpRewPelRotPos      | 1.12     |
+| rewards/EpRewPelRotVel      | 0.205    |
+| rewards/EpRewPelTransPosXY  | 1.29     |
+| rewards/EpRewPelTransPosZ   | 0.612    |
+| rewards/EpRewPelTransVelX   | 0.638    |
+| rewards/EpRewPelTransVelY   | 0.862    |
+| rewards/EpRewTorque         | 0.704    |
+------------------------------------------
+********** Iteration 4 ************
+Optimizing...g | Thruster: [49.97545779 49.99887049]]
+      pol_surr |     pol_entpen |        vf_loss |             kl |            ent
+       0.00307 |        0.00000 |        0.00793 |        0.00640 |      -10.60376
+      -0.01915 |        0.00000 |        0.00716 |        0.02378 |      -10.60376
+Evaluating losses...
+      -0.03831 |        0.00000 |        0.00675 |        0.02906 |      -10.60376
+------------------------------------------
+| evaluations/EpLenMean       | 21.6     |
+| evaluations/ev_tdlam_before | -1.36    |
+| evaluations/meanclipfracs   | 0.387    |
+| loss/ent                    | -10.6    |
+| loss/kl                     | 0.0291   |
+| loss/pol_entpen             | 0        |
+| loss/pol_surr               | -0.0383  |
+| loss/vf_loss                | 0.00675  |
+| misc/EpisodesSoFar          | 982      |
+| misc/EpThisIter             | 193      |
+| misc/TimeElapsedMin         | 4.57     |
+| misc/TimestepsSoFar         | 2.05e+04 |
+| rewards/EpRewAccel          | 0.676    |
+| rewards/EpRewDeltaAcs       | 0.624    |
+| rewards/EpRewFootforce      | 1.18     |
+| rewards/EpRewFootPos        | 0.401    |
+| rewards/EpRewMean           | 10.9     |
+| rewards/EpRewMotorPos       | 0.298    |
+| rewards/EpRewMotorVel       | 0        |
+| rewards/EpRewPelRotPos      | 1.19     |
+| rewards/EpRewPelRotVel      | 0.195    |
+| rewards/EpRewPelTransPosXY  | 1.22     |
+| rewards/EpRewPelTransPosZ   | 0.586    |
+| rewards/EpRewPelTransVelX   | 0.573    |
+| rewards/EpRewPelTransVelY   | 0.852    |
+| rewards/EpRewTorque         | 0.671    |
+------------------------------------------
+
