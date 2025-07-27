@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: cassie-rl-walking
+Version: 1.0
+Author: Zhongyu Li
+Author-email: zhongyu_li@berkeley.edu
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: Creative Commons Attribution ShareAlike 4.0
+Requires-Python: <3.8
+License-File: LICENSE
